@@ -7,4 +7,5 @@ Prepare the Data
 - Cluster Cryptocurrencies with K-means Using the Original Scaled Data
 - Optimize Clusters with Principal Component Analysis
 - Find the Best Value for k Using the PCA Data
+
 Results are in the Crypto_Clustering file.
